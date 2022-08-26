@@ -8,17 +8,43 @@
 
 /* Begin PBXBuildFile section */
 		4B96303528B971CD0098B0C1 /* Instagram_DesignApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B96303428B971CD0098B0C1 /* Instagram_DesignApp.swift */; };
-		4B96303728B971CD0098B0C1 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B96303628B971CD0098B0C1 /* ContentView.swift */; };
-		4B96303928B971CF0098B0C1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4B96303828B971CF0098B0C1 /* Assets.xcassets */; };
 		4B96303C28B971CF0098B0C1 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4B96303B28B971CF0098B0C1 /* Preview Assets.xcassets */; };
+		4B96306528B971F90098B0C1 /* SearchView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B96304828B971F80098B0C1 /* SearchView.swift */; };
+		4B96306628B971F90098B0C1 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B96304928B971F80098B0C1 /* HomeView.swift */; };
+		4B96306728B971F90098B0C1 /* TabBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B96304B28B971F80098B0C1 /* TabBar.swift */; };
+		4B96306828B971F90098B0C1 /* Label.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B96304C28B971F80098B0C1 /* Label.swift */; };
+		4B96306928B971F90098B0C1 /* SearchInput.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B96304D28B971F80098B0C1 /* SearchInput.swift */; };
+		4B96306A28B971F90098B0C1 /* Labels.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B96304E28B971F80098B0C1 /* Labels.swift */; };
+		4B96306B28B971F90098B0C1 /* Header.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B96304F28B971F80098B0C1 /* Header.swift */; };
+		4B96306C28B971F90098B0C1 /* PostContent.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B96305028B971F80098B0C1 /* PostContent.swift */; };
+		4B96306D28B971F90098B0C1 /* Post.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B96305128B971F80098B0C1 /* Post.swift */; };
+		4B96306E28B971F90098B0C1 /* Stories.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B96305228B971F80098B0C1 /* Stories.swift */; };
+		4B96306F28B971F90098B0C1 /* Grid.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B96305328B971F80098B0C1 /* Grid.swift */; };
+		4B96307028B971F90098B0C1 /* PostHeader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B96305428B971F80098B0C1 /* PostHeader.swift */; };
+		4B96307128B971F90098B0C1 /* Story.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B96305528B971F80098B0C1 /* Story.swift */; };
+		4B96307D28B972230098B0C1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4B96307C28B972230098B0C1 /* Assets.xcassets */; };
+		4B96307F28B972590098B0C1 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B96307E28B972590098B0C1 /* ContentView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		4B96303128B971CD0098B0C1 /* Instagram Design.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Instagram Design.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		4B96303428B971CD0098B0C1 /* Instagram_DesignApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Instagram_DesignApp.swift; sourceTree = "<group>"; };
-		4B96303628B971CD0098B0C1 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
-		4B96303828B971CF0098B0C1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4B96303B28B971CF0098B0C1 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		4B96304828B971F80098B0C1 /* SearchView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SearchView.swift; sourceTree = "<group>"; };
+		4B96304928B971F80098B0C1 /* HomeView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
+		4B96304B28B971F80098B0C1 /* TabBar.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TabBar.swift; sourceTree = "<group>"; };
+		4B96304C28B971F80098B0C1 /* Label.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Label.swift; sourceTree = "<group>"; };
+		4B96304D28B971F80098B0C1 /* SearchInput.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SearchInput.swift; sourceTree = "<group>"; };
+		4B96304E28B971F80098B0C1 /* Labels.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Labels.swift; sourceTree = "<group>"; };
+		4B96304F28B971F80098B0C1 /* Header.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Header.swift; sourceTree = "<group>"; };
+		4B96305028B971F80098B0C1 /* PostContent.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PostContent.swift; sourceTree = "<group>"; };
+		4B96305128B971F80098B0C1 /* Post.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Post.swift; sourceTree = "<group>"; };
+		4B96305228B971F80098B0C1 /* Stories.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Stories.swift; sourceTree = "<group>"; };
+		4B96305328B971F80098B0C1 /* Grid.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Grid.swift; sourceTree = "<group>"; };
+		4B96305428B971F80098B0C1 /* PostHeader.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PostHeader.swift; sourceTree = "<group>"; };
+		4B96305528B971F80098B0C1 /* Story.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Story.swift; sourceTree = "<group>"; };
+		4B96307C28B972230098B0C1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		4B96307E28B972590098B0C1 /* ContentView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,8 +78,10 @@
 			isa = PBXGroup;
 			children = (
 				4B96303428B971CD0098B0C1 /* Instagram_DesignApp.swift */,
-				4B96303628B971CD0098B0C1 /* ContentView.swift */,
-				4B96303828B971CF0098B0C1 /* Assets.xcassets */,
+				4B96307E28B972590098B0C1 /* ContentView.swift */,
+				4B96304728B971F80098B0C1 /* Views */,
+				4B96304A28B971F80098B0C1 /* Components */,
+				4B96307C28B972230098B0C1 /* Assets.xcassets */,
 				4B96303A28B971CF0098B0C1 /* Preview Content */,
 			);
 			path = "Instagram Design";
@@ -65,6 +93,33 @@
 				4B96303B28B971CF0098B0C1 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		4B96304728B971F80098B0C1 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				4B96304828B971F80098B0C1 /* SearchView.swift */,
+				4B96304928B971F80098B0C1 /* HomeView.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		4B96304A28B971F80098B0C1 /* Components */ = {
+			isa = PBXGroup;
+			children = (
+				4B96304B28B971F80098B0C1 /* TabBar.swift */,
+				4B96304C28B971F80098B0C1 /* Label.swift */,
+				4B96304D28B971F80098B0C1 /* SearchInput.swift */,
+				4B96304E28B971F80098B0C1 /* Labels.swift */,
+				4B96304F28B971F80098B0C1 /* Header.swift */,
+				4B96305028B971F80098B0C1 /* PostContent.swift */,
+				4B96305128B971F80098B0C1 /* Post.swift */,
+				4B96305228B971F80098B0C1 /* Stories.swift */,
+				4B96305328B971F80098B0C1 /* Grid.swift */,
+				4B96305428B971F80098B0C1 /* PostHeader.swift */,
+				4B96305528B971F80098B0C1 /* Story.swift */,
+			);
+			path = Components;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -126,7 +181,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				4B96303C28B971CF0098B0C1 /* Preview Assets.xcassets in Resources */,
-				4B96303928B971CF0098B0C1 /* Assets.xcassets in Resources */,
+				4B96307D28B972230098B0C1 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -137,8 +192,21 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4B96303728B971CD0098B0C1 /* ContentView.swift in Sources */,
+				4B96306928B971F90098B0C1 /* SearchInput.swift in Sources */,
+				4B96306C28B971F90098B0C1 /* PostContent.swift in Sources */,
+				4B96306E28B971F90098B0C1 /* Stories.swift in Sources */,
+				4B96306628B971F90098B0C1 /* HomeView.swift in Sources */,
+				4B96306D28B971F90098B0C1 /* Post.swift in Sources */,
+				4B96306B28B971F90098B0C1 /* Header.swift in Sources */,
+				4B96306728B971F90098B0C1 /* TabBar.swift in Sources */,
+				4B96306828B971F90098B0C1 /* Label.swift in Sources */,
+				4B96306F28B971F90098B0C1 /* Grid.swift in Sources */,
+				4B96307028B971F90098B0C1 /* PostHeader.swift in Sources */,
+				4B96306528B971F90098B0C1 /* SearchView.swift in Sources */,
+				4B96307F28B972590098B0C1 /* ContentView.swift in Sources */,
 				4B96303528B971CD0098B0C1 /* Instagram_DesignApp.swift in Sources */,
+				4B96306A28B971F90098B0C1 /* Labels.swift in Sources */,
+				4B96307128B971F90098B0C1 /* Story.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

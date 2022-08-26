@@ -1,16 +1,18 @@
 //
 //  ContentView.swift
-//  Instagram Design
+//  Instagram
 //
-//  Created by Anton Nagornyi on 27.08.2022.
+//  Created by Anton Nagornyi on 15.07.2022.
 //
 
 import SwiftUI
 
 struct ContentView: View {
+    
     var body: some View {
-        Text("Hello, world!")
-            .padding()
+        
+        TabBar()
+        
     }
 }
 
@@ -19,3 +21,4 @@ struct ContentView_Previews: PreviewProvider {
         ContentView()
     }
 }
+
